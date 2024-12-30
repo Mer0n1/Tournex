@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map>
+    <teams>
+        <team base="1" color="ff0000ff" name="Team RED" points="[1]"/>
+        <team base="54" color="000000ff" name="Team BLACK" points="[54]"/>
+        <team base="55" color="00ff00ff" name="Team GREEN" points="[55]"/>
+        <team base="4" color="ffff00ff" name="Team YELLOW" points="[4]"/>
+    </teams>
+    <point base="false" connectPoints="[1, 8, 32]" id="0" owner="-1" x="150.0" y="200.0"/>
+    <point base="true" connectPoints="[0, 2, 10, 15]" id="1" owner="0" x="150.0" y="150.0"/>
+    <point base="false" connectPoints="[1, 11, 17]" id="2" owner="-1" x="245.0" y="193.0"/>
+    <point base="false" connectPoints="[4, 14, 17, 42]" id="3" owner="-1" x="485.0" y="322.0"/>
+    <point base="true" connectPoints="[3, 5, 7, 6]" id="4" owner="1" x="492.0" y="390.0"/>
+    <point base="false" connectPoints="[4, 8, 31]" id="5" owner="-1" x="404.0" y="395.0"/>
+    <point base="false" connectPoints="[4, 13, 20]" id="6" owner="-1" x="498.0" y="477.0"/>
+    <point base="false" connectPoints="[4, 12, 30]" id="7" owner="-1" x="577.0" y="393.0"/>
+    <point base="false" connectPoints="[0, 5]" id="8" owner="-1" x="232.0" y="269.0"/>
+    <point base="false" connectPoints="[1, 11, 53]" id="10" owner="-1" x="235.0" y="120.0"/>
+    <point base="false" connectPoints="[2, 10, 14]" id="11" owner="-1" x="340.0" y="201.0"/>
+    <point base="false" connectPoints="[7, 34]" id="12" owner="-1" x="663.0" y="381.0"/>
+    <point base="false" connectPoints="[6, 36]" id="13" owner="-1" x="462.0" y="547.0"/>
+    <point base="false" connectPoints="[3, 11, 44, 51]" id="14" owner="-1" x="503.0" y="235.0"/>
+    <point base="false" connectPoints="[1, 16]" id="15" owner="-1" x="95.0" y="80.0"/>
+    <point base="false" connectPoints="[15]" id="16" owner="-1" x="68.0" y="162.0"/>
+    <point base="false" connectPoints="[2, 3]" id="17" owner="-1" x="321.0" y="279.0"/>
+    <point base="false" connectPoints="[37, 35]" id="18" owner="-1" x="899.0" y="543.0"/>
+    <point base="false" connectPoints="[33, 32]" id="19" owner="-1" x="207.0" y="428.0"/>
+    <point base="false" connectPoints="[6, 36]" id="20" owner="-1" x="542.0" y="522.0"/>
+    <point base="false" connectPoints="[37, 35]" id="21" owner="-1" x="916.0" y="627.0"/>
+    <point base="false" connectPoints="[26, 23, 54]" id="22" owner="-1" x="982.0" y="471.0"/>
+    <point base="false" connectPoints="[22, 41, 29]" id="23" owner="-1" x="909.0" y="461.0"/>
+    <point base="false" connectPoints="[38, 49]" id="25" owner="-1" x="1135.0" y="429.0"/>
+    <point base="false" connectPoints="[22, 28]" id="26" owner="-1" x="962.0" y="383.0"/>
+    <point base="false" connectPoints="[26, 43]" id="28" owner="-1" x="839.0" y="310.0"/>
+    <point base="false" connectPoints="[23, 34]" id="29" owner="-1" x="778.0" y="506.0"/>
+    <point base="false" connectPoints="[7, 34]" id="30" owner="-1" x="644.0" y="469.0"/>
+    <point base="false" connectPoints="[5, 33]" id="31" owner="-1" x="340.0" y="461.0"/>
+    <point base="false" connectPoints="[0, 19]" id="32" owner="-1" x="162.0" y="316.0"/>
+    <point base="false" connectPoints="[31, 19]" id="33" owner="-1" x="281.0" y="518.0"/>
+    <point base="false" connectPoints="[30, 12, 29, 41]" id="34" owner="-1" x="727.0" y="449.0"/>
+    <point base="false" connectPoints="[18, 21, 36]" id="35" owner="-1" x="758.0" y="619.0"/>
+    <point base="false" connectPoints="[20, 35, 13]" id="36" owner="-1" x="653.0" y="626.0"/>
+    <point base="false" connectPoints="[21, 18, 54]" id="37" owner="-1" x="1013.0" y="568.0"/>
+    <point base="false" connectPoints="[25, 40, 54]" id="38" owner="-1" x="1081.0" y="457.0"/>
+    <point base="false" connectPoints="[38, 50]" id="40" owner="-1" x="1054.0" y="376.0"/>
+    <point base="false" connectPoints="[23, 34]" id="41" owner="-1" x="811.0" y="451.0"/>
+    <point base="false" connectPoints="[3, 43]" id="42" owner="-1" x="613.0" y="290.0"/>
+    <point base="false" connectPoints="[28, 42, 44]" id="43" owner="-1" x="750.0" y="273.0"/>
+    <point base="false" connectPoints="[14, 43, 46]" id="44" owner="-1" x="754.0" y="201.0"/>
+    <point base="false" connectPoints="[46, 47, 49, 50]" id="45" owner="-1" x="923.0" y="119.0"/>
+    <point base="false" connectPoints="[44, 45, 55]" id="46" owner="-1" x="766.0" y="123.0"/>
+    <point base="false" connectPoints="[45, 55]" id="47" owner="-1" x="742.0" y="32.0"/>
+    <point base="false" connectPoints="[45, 25]" id="49" owner="-1" x="1023.0" y="177.0"/>
+    <point base="false" connectPoints="[45, 40]" id="50" owner="-1" x="936.0" y="220.0"/>
+    <point base="false" connectPoints="[14, 55]" id="51" owner="-1" x="660.0" y="144.0"/>
+    <point base="false" connectPoints="[ 53, 55]" id="52" owner="-1" x="643.0" y="58.0"/>
+    <point base="false" connectPoints="[10, 52]" id="53" owner="-1" x="395.0" y="117.0"/>
+    <point base="true" connectPoints="[37,22,38]" id="54" owner="2" x="1000.0" y="500.0"/>
+    <point base="true" connectPoints="[46,51,52,47]" id="55" owner="3" x="700.0" y="110.0"/>
+</map>
